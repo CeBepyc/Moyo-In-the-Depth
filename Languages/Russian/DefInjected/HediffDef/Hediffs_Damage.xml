@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Moyo_CryoSlowdown.label>Криогенная гипотермия</Moyo_CryoSlowdown.label>
+	<Moyo_CryoSlowdown.description>Это внезапное снижение температуры тела, вызванное криогенным оружием. Со временем он вернется в исходное состояние, но если состояние станет слишком тяжелым, это приведет к смерти..</Moyo_CryoSlowdown.description>
+	<Moyo_CryoSlowdown.stages.0.label>Озноб</Moyo_CryoSlowdown.stages.0.label>
+	<Moyo_CryoSlowdown.stages.1.label>Легкое</Moyo_CryoSlowdown.stages.1.label>
+	<Moyo_CryoSlowdown.stages.2.label>Серьёзное</Moyo_CryoSlowdown.stages.2.label>
+	<Moyo_CryoSlowdown.stages.3.label>Экстремальное</Moyo_CryoSlowdown.stages.3.label>
+	<HexapodConstriction.label>Сдерживание</HexapodConstriction.label>
+	<HexapodConstriction.description>Сдерживается щупальцами Гексапода, препятствуя движению.</HexapodConstriction.description>
+</LanguageData>

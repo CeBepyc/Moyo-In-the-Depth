@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Moyo_DBS.label>Станция Deep Blue</Moyo_DBS.label>
+	<Moyo_DBS.description>Это машина, которая производит много Deep Blue, применяя органы Мойо. Для производства Deep Blue требуется как электричество, так и питательные вещества.\n\nНе рекомендуется заглядывать внутрь...</Moyo_DBS.description>
+	<Moyo_DBSF.label>Питательный пакет</Moyo_DBSF.label>
+	<Moyo_DBSF.description>Это очищенный питательный пакет, используемый в станции Deep Blue. Для обеспечения бесперебойной работы станции были внесены некоторые изменения.</Moyo_DBSF.description>
+
+	<Moyo_FabricationBench.label>Сборочный верстак AbyssTech</Moyo_FabricationBench.label>
+	<Moyo_FabricationBench.description>Верстак для производства продуктов Abysstech Оснащенный широким спектром передового оборудования, этот верстак позволяет выполнять точные операции, такие как производство мелких деталей, до сложной обработки, такой как производство безднастали.</Moyo_FabricationBench.description>
+	<PearlSculptureSmall.label>Маленькая статуя из жемчуга бездны</PearlSculptureSmall.label>
+	<PearlSculptureSmall.description>Это небольшая статуя из жемчуга бездны. В дизайне использована уникальная кристаллическая структура Irbisol Pearl.</PearlSculptureSmall.description>
+	<PearlSculptureLarge.label>Большая скульптура из жемчуга бездны</PearlSculptureLarge.label>
+	<PearlSculptureLarge.description>Это статуя в человеческий рост, сделанная из жемчуга Irbisol. В дизайне использована уникальная кристаллическая структура Irbisol Pearl.</PearlSculptureLarge.description>
+	<PearlSculptureGrand.label>Гигантская статуя из жемчуга бездны</PearlSculptureGrand.label>
+	<PearlSculptureGrand.description>Это статуя размером со всю комнату, сделанная из жемчуга Irbisol. В дизайне использована уникальная кристаллическая структура Irbisol Pearl.</PearlSculptureGrand.description>
+
+	<Moyo_Abyssteel.label>Безднасталь</Moyo_Abyssteel.label>
+	<Moyo_Abyssteel.description>Это сплав сверхвысокой плотности, используемый в маяках. Невероятно тяжелый и жесткий и подходит для применений, требующих максимальной прочности.</Moyo_Abyssteel.description>
+	<Moyo_Depthweave.label>Глубоплёт/Moyo_Depthweave.label>
+	<Moyo_Depthweave.description>Это прочное волокно, используемое в маяках. Он используется во многих местах благодаря отличной теплоизоляции и эластичности.</Moyo_Depthweave.description>
+	<Moyo_AbyssPearl.label>Жемчужина бездны</Moyo_AbyssPearl.label>
+	<Moyo_AbyssPearl.description>Это синий кристалл из чистого темно-синего цвета. Чем он чище, тем сильнее его действие,при необходимости сделать предмет с более сильным эффектом. Этот кристалл излучает особый блеск, который заставил миллионы и Мойо почувствовать зависть, что привело к кровавому продукту бесконечного желания.</Moyo_AbyssPearl.description>
+
+	<MoyoGRModule.label>Самостоятельный модуль помощника по исследованию бездны</MoyoGRModule.label>
+	<MoyoGRModule.description>Это модуль искусственного интеллекта, который поддерживает регулярные исследования. Развернутый рядом с передовыми исследовательскими университетами, чтобы ускорить исследования и достичь пика Abyss Tech. К одному рабочему столу можно подключить только один модуль ИИ.</MoyoGRModule.description>
+</LanguageData>

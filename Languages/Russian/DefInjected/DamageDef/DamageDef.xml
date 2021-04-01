@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Moyo_ChargeBolt.label>Электромагнитный выстрел</Moyo_ChargeBolt.label>
+	<Moyo_ChargeBolt.deathMessage>{0} был застрелен.</Moyo_ChargeBolt.deathMessage>
+	<Moyo_Cryo.label>Обморожение</Moyo_Cryo.label>
+	<Moyo_Cryo.deathMessage>{0} умер от обморожения.</Moyo_Cryo.deathMessage>
+	<HexapodTentacle.label>Удар</HexapodTentacle.label>
+</LanguageData>

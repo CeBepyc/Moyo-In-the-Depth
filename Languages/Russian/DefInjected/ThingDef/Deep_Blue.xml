@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 혈액팩 -->
+
+  <Moyo_BloodBag.label>Пакет крови Мойо</Moyo_BloodBag.label>
+  <Moyo_BloodBag.description>Пакет с кровью, извлеченный из Мойо различными способами. Говорят, что кровь в пакете содержит особый ингредиент, который называется темно-синим..</Moyo_BloodBag.description>
+
+
+  <!-- AbyssSerum -->
+
+  <AbyssSerum.label>Сыворотка Deep Blue</AbyssSerum.label>
+  <AbyssSerum.description>Это набор ингредиентов под названием Deep Blue, извлеченных из крови Мойо. Под воздествием Deep Blue тело пользователя укрепляется на клеточном уровне, обеспечивая более эффективную метаболическую активность. Это изменение необратимо.\n\nКомпонент, обнаруженный Мойо путем отслеживания их происхождения, имеет большой медицинский потенциал. О том, что это за ингредиент, ничего не известно.</AbyssSerum.description>
+  <AbyssSerum.ingestible.ingestCommandString>{0} инъекция</AbyssSerum.ingestible.ingestCommandString>
+  <AbyssSerum.ingestible.ingestReportString>{0} инъекция.</AbyssSerum.ingestible.ingestReportString>
+
+
+</LanguageData>

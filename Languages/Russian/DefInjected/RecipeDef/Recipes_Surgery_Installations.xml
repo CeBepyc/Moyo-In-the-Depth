@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallFakeTail_Moyo.label>Имплантация искуственного хвоста Мойо</InstallFakeTail_Moyo.label>
+	<InstallFakeTail_Moyo.description>Имплантировать искусственный хвост.</InstallFakeTail_Moyo.description>
+	<InstallFakeTail_Moyo.jobString>Имплантация искуственного хвоста.</InstallFakeTail_Moyo.jobString>
+
+	<InstallBionicTail_Moyo.label>Имплантация бионического хвоста Мойо</InstallBionicTail_Moyo.label>
+	<InstallBionicTail_Moyo.description>Имплантировать бионический хвост.</InstallBionicTail_Moyo.description>
+	<InstallBionicTail_Moyo.jobString>Имплантация бионического хвоста.</InstallBionicTail_Moyo.jobString>
+
+
+	<!-- 모요 심장이식 -->
+
+	<InstallNaturalHeart_Moyo.label>Пересадка сердца Мойо</InstallNaturalHeart_Moyo.label>
+	<InstallNaturalHeart_Moyo.description>Сердце пересажено.</InstallNaturalHeart_Moyo.description>
+	<InstallNaturalHeart_Moyo.jobString>Пересадка сердца.</InstallNaturalHeart_Moyo.jobString>
+
+	<InstallSimpleProstheticHeart_Moyo.label>Пересадка искусственного сердца Мойо</InstallSimpleProstheticHeart_Moyo.label>
+	<InstallSimpleProstheticHeart_Moyo.description>Имплантировано искусственное сердце.</InstallSimpleProstheticHeart_Moyo.description>
+	<InstallSimpleProstheticHeart_Moyo.jobString>Пересадка искусственного сердца.</InstallSimpleProstheticHeart_Moyo.jobString>
+
+	<InstallBionicHeart_Moyo.label>Пересадка бионического сердца Мойо</InstallBionicHeart_Moyo.label>
+	<InstallBionicHeart_Moyo.description>Имплантирует бионическое сердце.</InstallBionicHeart_Moyo.description>
+	<InstallBionicHeart_Moyo.jobString>Пересадка бионического сердца Мойо.</InstallBionicHeart_Moyo.jobString>
+
+	<InstallAdvancedHeart_Moyo.label>Пересадка сердца Abysstech</InstallAdvancedHeart_Moyo.label>
+	<InstallAdvancedHeart_Moyo.description>Пересадка сердца Abysstech.</InstallAdvancedHeart_Moyo.description>
+	<InstallAdvancedHeart_Moyo.jobString>Пересадка сердца Abysstech.</InstallAdvancedHeart_Moyo.jobString>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MoyoPressurePod_Race.label>Раса сжатоподов Мойо</MoyoPressurePod_Race.label>
+  <MoyoPressurePod_Race.description>Это горнодобывающий механоид, используемый в маяках. Крушите камни огромной парой измельчителей. Это один из механоидов маяка, которым можно управлять на земле, и в случае возникновения чрезвычайной ситуации онможет быть предназначен для сражения, уничтожая врага с помощью измельчителя. Тот, кто встанет перед этой дробилкой, не сможет резать кости.</MoyoPressurePod_Race.description>
+  <MoyoPressurePod_Race.tools.0.label>Голова</MoyoPressurePod_Race.tools.0.label>
+  <MoyoPressurePod_Race.tools.1.label>Левый измельчитель</MoyoPressurePod_Race.tools.1.label>
+  <MoyoPressurePod_Race.tools.2.label>Правый измельчитель</MoyoPressurePod_Race.tools.2.label>
+  <MoyoHexaPod_Race.tools.0.label>Голова</MoyoHexaPod_Race.tools.0.label>
+  <MoyoHexaPod_Race.tools.1.label>Щупальце</MoyoHexaPod_Race.tools.1.label>
+  <MoyoHexaPod_Race.tools.2.label>Щупальце</MoyoHexaPod_Race.tools.2.label>
+  <MoyoHexaPod_Race.tools.3.label>Щупальце</MoyoHexaPod_Race.tools.3.label>
+  <MoyoHexaPod_Race.tools.4.label>Щупальце</MoyoHexaPod_Race.tools.4.label>
+  <MoyoHexaPod_Race.tools.5.label>Щупальце</MoyoHexaPod_Race.tools.5.label>
+  <MoyoHexaPod_Race.tools.6.label>Щупальце</MoyoHexaPod_Race.tools.6.label>
+  <MoyoHexaPod_Race.label>Гексапод</MoyoHexaPod_Race.label>
+  <MoyoHexaPod_Race.description>Это универсальный меканоид, используемый в маяках. Шесть гибких щупалец позволяют выполнять самые разные задачи. Это один из механоидов маяка, которым можно управлять на земле, и в случае возникновения чрезвычайной ситуации он предназначен для борьбы, поражая врага щупальцами и ограничивая движение..</MoyoHexaPod_Race.description>
+  <MoyoCryoPod_Race.tools.0.label>Голова</MoyoCryoPod_Race.tools.0.label>
+  <MoyoCryoPod_Race.tools.1.label>Щупальце</MoyoCryoPod_Race.tools.1.label>
+  <MoyoCryoPod_Race.tools.2.label>Щупальце</MoyoCryoPod_Race.tools.2.label>
+  <MoyoCryoPod_Race.tools.3.label>Щупальце</MoyoCryoPod_Race.tools.3.label>
+  <MoyoCryoPod_Race.tools.4.label>Щупальце</MoyoCryoPod_Race.tools.4.label>
+  <MoyoCryoPod_Race.tools.5.label>Щупальце</MoyoCryoPod_Race.tools.5.label>
+  <MoyoCryoPod_Race.tools.6.label>Щупальце</MoyoCryoPod_Race.tools.6.label>
+  <MoyoCryoPod_Race.label>Криопод Мойо</MoyoCryoPod_Race.label>
+  <MoyoCryoPod_Race.description>Это универсальный механоид, используемый в маяках. Шесть гибких щупалец позволяют выполнять самые разные задачи. Гексапод, оснащенный криогенным оружием, модифицированный для огневой поддержки средней дальности. Уникальные способности ближнего боя остаются и после установки оружия.</MoyoCryoPod_Race.description>
+</LanguageData>

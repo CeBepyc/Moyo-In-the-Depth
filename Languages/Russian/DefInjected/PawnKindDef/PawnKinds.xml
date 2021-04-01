@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Moyo_ColonistPawn.label>Поселенец Мойо</Moyo_ColonistPawn.label>
+	<Moyo_ColonistPawn.labelPlural>Поселенцы Мойо</Moyo_ColonistPawn.labelPlural>
+
+	<Moyo_TopCivilan.label>Гражданин высшего класса Мойо</Moyo_TopCivilan.label>
+	<Moyo_TopCivilan.labelPlural>Граждане высшего класса Мойо</Moyo_TopCivilan.labelPlural>
+
+	<Moyo_MiddleCivilan.label>Гражданин среднего класса Мойо</Moyo_MiddleCivilan.label>
+	<Moyo_MiddleCivilan.labelPlural>Граждане среднего класса Мойо</Moyo_MiddleCivilan.labelPlural>
+
+	<Moyo_BottomCivilan.label>Мойо высокого ранга</Moyo_BottomCivilan.label>
+	<Moyo_BottomCivilan.labelPlural>Мойо высокого ранга</Moyo_BottomCivilan.labelPlural>
+
+	<Moyo_Engineer.label>Техник Мойо</Moyo_Engineer.label>
+	<Moyo_Engineer.labelPlural>Техники Мойо</Moyo_Engineer.labelPlural>
+
+	<Moyo_Resercher.label>Исследователь Мойо</Moyo_Resercher.label>
+	<Moyo_Resercher.labelPlural>Исследователи Мойо</Moyo_Resercher.labelPlural>
+
+	<Moyo_TopSmuggler.label>Высокопоставленный контрабандист Мойо</Moyo_TopSmuggler.label>
+	<Moyo_TopSmuggler.labelPlural>Высокопоставленные контрабандисты Мойо</Moyo_TopSmuggler.labelPlural>
+
+	<Moyo_MiddleSmuggler.label>Контрабандист среднего класса Мойо</Moyo_MiddleSmuggler.label>
+	<Moyo_MiddleSmuggler.labelPlural>Контрабандисты среднего класса Мойо</Moyo_MiddleSmuggler.labelPlural>
+
+	<Moyo_SoldierLight.label>Ударная сила Мойо</Moyo_SoldierLight.label>
+	<Moyo_SoldierLight.labelPlural>Ударная сила Мойо</Moyo_SoldierLight.labelPlural>
+
+	<Moyo_SoliderStandard.label>Линейная пехота Мойо</Moyo_SoliderStandard.label>
+	<Moyo_SoliderStandard.labelPlural>Линейная пехота Мойо</Moyo_SoliderStandard.labelPlural>
+
+	<Moyo_SoldierHeavy.label>Тяжелая кавалерия Мойо</Moyo_SoldierHeavy.label>
+	<Moyo_SoldierHeavy.labelPlural>Тяжелая кавалерия Мойо</Moyo_SoldierHeavy.labelPlural>
+
+	<Moyo_SoldierAssult.label>Штурмовик Мойо</Moyo_SoldierAssult.label>
+	<Moyo_SoldierAssult.labelPlural>Штурмовая группа Мойо</Moyo_SoldierAssult.labelPlural>
+
+	<Moyo_leader.label>Старейшина Мойо</Moyo_leader.label>
+	<Moyo_leader.labelPlural>Старейшины Мойо</Moyo_leader.labelPlural>
+
+	<Moyo_General.label>Генерал Мойо</Moyo_General.label>
+	<Moyo_General.labelPlural>Генералы Мойо</Moyo_General.labelPlural>
+
+	<Moyo_Guardian.label>Морской гвардеец Мойо</Moyo_Guardian.label>
+	<Moyo_Guardian.labelPlural>Морская Гвардия Мойо</Moyo_Guardian.labelPlural>
+
+	<Moyo_GuardianAssault.label>Штурмовик Морской гвардии Мойо</Moyo_GuardianAssault.label>
+	<Moyo_GuardianAssault.labelPlural>Штурмовики Морской гвардии Мойо</Moyo_GuardianAssault.labelPlural>
+
+	<MoyoHexapod_Kind.label>Гексапод</MoyoHexapod_Kind.label>
+	<MoyoCryopod_Kind.label>Криопод</MoyoCryopod_Kind.label>
+	<MoyoPressurePod_Kind.label>Сжатопод Мойо</MoyoPressurePod_Kind.label>
+</LanguageData>

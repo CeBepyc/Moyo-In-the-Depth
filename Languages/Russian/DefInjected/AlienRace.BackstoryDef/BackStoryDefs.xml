@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <!-- 농장아이 -->
+
+ <Moyo_FarmChild.title>Дитя фермеров Мойо</Moyo_FarmChild.title>
+ <Moyo_FarmChild.titleShort>Дитя фермеров</Moyo_FarmChild.titleShort>
+ <Moyo_FarmChild.baseDescription>{PAWN_nameDef} вырос на ферме по выращиванию морских водорослей в верхнем слое. Несмотря на беспорядочные слухи и беспокойство взрослых, {PAWN_pronoun} с детства выращивал и собирать водоросли..</Moyo_FarmChild.baseDescription>
+
+
+ <!-- 고아 -->
+
+ <Moyo_Orphan.title>Мойо-сирота</Moyo_Orphan.title>
+ <Moyo_Orphan.titleShort>Сирота</Moyo_Orphan.titleShort>
+ <Moyo_Orphan.baseDescription>{PAWN_nameDef} рассталась с родителями и выросла в детском доме. В приюте было много детей в той же ситуации, что и {PAWN_pronoun}, и были даже дети, которые были свидетелями смерти своих родителей. {PAWN_pronoun} ждала того дня, когда снова увидит своих родителей.</Moyo_Orphan.baseDescription>
+
+
+ <!-- 정비공지망생 -->
+
+ <Moyo_MechanicWannabe.title>Гик по механизмам Мойо</Moyo_MechanicWannabe.title>
+ <Moyo_MechanicWannabe.titleShort>Гик по механизмам</Moyo_MechanicWannabe.titleShort>
+ <Moyo_MechanicWannabe.baseDescription>{PAWN_nameDef} была очарована разнообразием машин и оборудования. К счастью, в море было много металлолома и гиков, поэтому {PAWN_pronoun} смогла легко найти игрушки и учителей, чтобы с ними поиграть.</Moyo_MechanicWannabe.baseDescription>
+
+
+ <!-- 몽상가 -->
+
+ <Moyo_Dreamer.title>Мечтатель Мойо</Moyo_Dreamer.title>
+ <Moyo_Dreamer.titleShort>Мечтатель</Moyo_Dreamer.titleShort>
+ <Moyo_Dreamer.baseDescription>{PAWN_nameDef} любовалась сверкающими видами на город из бездны внизу. Но взрослым не нравился интерес {PAWN_nameDef} к низшим классам. Несмотря на бесчисленные ужасающие и преувеличенные угрозы и уговоры от взрослых, {PAWN_pronoun} не сдалась.</Moyo_Dreamer.baseDescription>
+
+
+ <!-- 일진 -->
+
+ <Moyo_Bully.title>Хулиганка</Moyo_Bully.title>
+ <Moyo_Bully.titleShort>Хулиганка</Moyo_Bully.titleShort>
+ <Moyo_Bully.baseDescription>{PAWN_nameDef} быстро осознала сладость покорения других. {PAWN_pronoun} любила преследовать и издеваться над детьми своего возраста, а детям из приюта приходилось играть роль жертв..</Moyo_Bully.baseDescription>
+
+
+ <!-- 좀도둑 -->
+
+ <Moyo_PettyTheif.title>Воришка Мойо</Moyo_PettyTheif.title>
+ <Moyo_PettyTheif.titleShort>Воришка</Moyo_PettyTheif.titleShort>
+ <Moyo_PettyTheif.baseDescription>{PAWN_nameDef} был вовлечен в спор. Её дом  был разрушен, и {PAWN_nameDef} пришлось воровать еду и всё необходимое, чтобы выжить.</Moyo_PettyTheif.baseDescription>
+
+
+ <!-- 사냥보조 -->
+
+ <Moyo_HuntingAssistant.title>Помощник по охоте Мойо</Moyo_HuntingAssistant.title>
+ <Moyo_HuntingAssistant.titleShort>Помощь на охоте</Moyo_HuntingAssistant.titleShort>
+ <Moyo_HuntingAssistant.baseDescription>{PAWN_nameDef} примкнула за охотниками. Путешествуя с охотниками, {PAWN_pronoun} узнала о животных и даже сама охотилась на них.</Moyo_HuntingAssistant.baseDescription>
+
+
+ <!-- 산호조각가 -->
+
+ <Moyo_CoralSculpter.title>Коралловый скульптор Мойо</Moyo_CoralSculpter.title>
+ <Moyo_CoralSculpter.titleShort>Коралловый скульптор</Moyo_CoralSculpter.titleShort>
+ <Moyo_CoralSculpter.baseDescription>{PAWN_nameDef} научилась превращать ухоженные кораллы во множество ценных вещей. Работа {PAWN_nameDef} не была усовершенствована, но она показала достаточный художественный талант и ожидалась от многих людей в мастерской.</Moyo_CoralSculpter.baseDescription>
+
+
+ <!-- 총명한아이 -->
+
+ <Moyo_BrightChild.title>Умный ребенок Мойо</Moyo_BrightChild.title>
+ <Moyo_BrightChild.titleShort>Умный ребенок</Moyo_BrightChild.titleShort>
+ <Moyo_BrightChild.baseDescription>{PAWN_nameDef} был намного умнее других детей её возраста. {PAWN_pronoun} предпочитала читать в библиотеке, а не заводить друзей на улице. Хотя эта черта личности {PAWN_nameDef} вызвала конфликты с другими детьми, большинство родителей не сомневались, что мойо, такие как {PAWN_nameDef}, перейдут в следующий класс.</Moyo_BrightChild.baseDescription>
+
+
+ <!-- 고래 친구 -->
+
+ <Moyo_WhaleFriend.title>Мойо - друг китов</Moyo_WhaleFriend.title>
+ <Moyo_WhaleFriend.titleShort>Друг китов</Moyo_WhaleFriend.titleShort>
+ <Moyo_WhaleFriend.baseDescription>{PAWN_nameDef} любила плавать с китами. {PAWN_nameDef} проводила как можно больше времени, ухаживая за китами и играя с ними.</Moyo_WhaleFriend.baseDescription>
+
+
+ <!-- 어린 셰프 -->
+
+ <Moyo_ChildChef.title>Мойо молодой повар</Moyo_ChildChef.title>
+ <Moyo_ChildChef.titleShort>Молодой повар</Moyo_ChildChef.titleShort>
+ <Moyo_ChildChef.baseDescription>{PAWN_nameDef} нравилось готовить. Шли дни, ингредиентов становилось все меньше, но приготовление с использованием текстуры и вкуса различных ингредиентов было самым приятным для {PAWN_nameDef}.</Moyo_ChildChef.baseDescription>
+
+
+ <!-- 어린 중독자 -->
+
+ <Moyo_YoungJunkie.title>Мойо молодой наркоман</Moyo_YoungJunkie.title>
+ <Moyo_YoungJunkie.titleShort>Молодой наркоман</Moyo_YoungJunkie.titleShort>
+ <Moyo_YoungJunkie.baseDescription>{PAWN_nameDef} загадочным путем заполучила психотропное средство. Мощный и захватывающий химический стимул психоидов был разрушительным для психики, и {PAWN_pronoun} не колеблясь делала все, чтобы получить наркотик. Мозг, который постоянно подвергался воздействию наркотика, требовал более интенсивной стимуляции, и {PAWN_pronoun} в конечном итоге стал зависимым и от других наркотиков.</Moyo_YoungJunkie.baseDescription>
+
+
+ <!-- 병약한 아이 -->
+
+ <Moyo_SicklyChild.title>Слабый ребенок</Moyo_SicklyChild.title>
+ <Moyo_SicklyChild.titleShort>Болезненный ребенок</Moyo_SicklyChild.titleShort>
+ <Moyo_SicklyChild.baseDescription>{PAWN_nameDef} родилась болезненной и большую часть времени проводила в постели. Нервы, обостренные хронической болезнью, сделали {PAWN_nameDef} очень неуклюжей в человеческих отношениях, и только различные знания могли ее утешить.</Moyo_SicklyChild.baseDescription>
+
+
+ <!-- 밀수업 협조자 -->
+
+ <Moyo_SmugglerRunner.title>Посыльный контрабандистов</Moyo_SmugglerRunner.title>
+ <Moyo_SmugglerRunner.titleShort>Посыльный контрабандистов</Moyo_SmugglerRunner.titleShort>
+ <Moyo_SmugglerRunner.baseDescription>{PAWN_nameDef} была посыльной контрабандиста. В индустрии контрабанды, в которой добровольно участвовала {PAWN_nameDef} чтобы заработать деньги, {PAWN_pronoun} в первую очередь отвечала за транспортировку контрабанды и получение информации. В процессе {PAWN_pronoun} научилась эффективно использовать свою внешность..</Moyo_SmugglerRunner.baseDescription>
+
+
+ <!-- 어린 광부 -->
+
+ <Moyo_YoungMiner.title>Мойо молодой шахтер</Moyo_YoungMiner.title>
+ <Moyo_YoungMiner.titleShort>Молодой шахтер</Moyo_YoungMiner.titleShort>
+ <Moyo_YoungMiner.baseDescription>Семья {PAWN_nameDef} была бедной. {PAWN_pronoun} с ранней юности должна была зарабатывать деньги для своей семьи, и она начала работать шахтером. После того, как {PAWN_nameDef} стала шахтером, мечты и энтузиазм {PAWN_pronoun} приобрели смысл только тогда, когда они были связаны с добычей большего количества полезных ископаемых.</Moyo_YoungMiner.baseDescription>
+
+
+ <!-- 소년병 -->
+
+ <Moyo_ChildSoldier.title>Мойо ребенок-солдат</Moyo_ChildSoldier.title>
+ <Moyo_ChildSoldier.titleShort>Ребенок-солдат</Moyo_ChildSoldier.titleShort>
+ <Moyo_ChildSoldier.baseDescription>В отличие от других детей его возраста, {PAWN_nameDef} должен был держать настоящий пистолет вместо игрушечного. {PAWN_pronoun}, которого похитили и бросили на поле битвы, на собственном опыте понял, что он может выжить, только убив, и продолжил отчаянную борьбу за выживание.</Moyo_ChildSoldier.baseDescription>
+
+
+ <!-- 고위층 자녀 -->
+
+ <Moyo_HighbonChild.title>Ребенок родителей высокого класса</Moyo_HighbonChild.title>
+ <Moyo_HighbonChild.titleShort>Ребенок высокопоставленных родителей</Moyo_HighbonChild.titleShort>
+ <Moyo_HighbonChild.baseDescription>{PAWN_nameDef} - ребенок высокопоставленных родителей. Остальные взяли на себя обязанности по дому, а {PAWN_nameDef} просто радовалась жизни. Ни борьба за власть между двумя дворянскими семьями, которая привела к гражданской войне, ни другие Мойо, погибшие в результате вмешательства, не были важны {PAWN_nameDef}. Может быть...</Moyo_HighbonChild.baseDescription>
+
+
+ <!-- 어린 연예인 -->
+
+ <Moyo_YoungCelebrity.title>Айдол Мойо</Moyo_YoungCelebrity.title>
+ <Moyo_YoungCelebrity.titleShort>Айдол Мойо</Moyo_YoungCelebrity.titleShort>
+ <Moyo_YoungCelebrity.baseDescription>{PAWN_nameDef} была знаменитостью, таланты которой проявились в различных областях шоубизнеса, таких как пение, танцы и актерское мастерство. Многие мойо на маяке завидовали внешнему виду и репутации {PAWN_nameDef}. Ходит много слухов о том, почему молодая {PAWN_nameDef} стала такой знаменитой, но только {PAWN_nameDef} знает настоящую причину.</Moyo_YoungCelebrity.baseDescription>
+
+
+ <!-- 충격받은 간호사 -->
+
+ <Moyo_ShockedNurse.title>Медсестра с психическими растройствами</Moyo_ShockedNurse.title>
+ <Moyo_ShockedNurse.titleShort>Медсестра с психическими растройствами</Moyo_ShockedNurse.titleShort>
+ <Moyo_ShockedNurse.baseDescription>{PAWN_nameDef} была мобилизована в качестве медсестры, чтобы восполнить нехватку в больничной палате. Хотя {PAWN_pronoun} в первую очередь отвечала за пациентов с легкими заболеваниями, ей часто приходилось ухаживать за тяжелобольными. Эта работа разрушила психику {PAWN_nameDef}, но в то же время дала возможность получить медицинские знания.</Moyo_ShockedNurse.baseDescription>
+
+
+ <!-- 공학도 -->
+
+ <Moyo_EngineeringStudent.title>Дипломированный инженер Мойо</Moyo_EngineeringStudent.title>
+ <Moyo_EngineeringStudent.titleShort>Дипломированный инженер</Moyo_EngineeringStudent.titleShort>
+ <Moyo_EngineeringStudent.baseDescription>Расширение и строительство маяков - задача не из легких. Поэтому мойо, работающие в сфере городского строительства, обычно проходят профессиональную подготовку с раннего возраста. {PAWN_nameDef} изучила множество чертежей и наук, чтобы стать одним из этих мойо.</Moyo_EngineeringStudent.baseDescription>
+
+
+ <!-- 배양된 군인 -->
+
+ <Moyo_VatgrownSoldier.title>Солдат-репликант</Moyo_VatgrownSoldier.title>
+ <Moyo_VatgrownSoldier.titleShort>Солдат-репликант</Moyo_VatgrownSoldier.titleShort>
+ <Moyo_VatgrownSoldier.baseDescription>{PAWN_nameDef} - одно из систематически производимых орудий войны. {PAWN_pronoun} была генетически воспроизведенным и зарегестрированным репликантом. {PAWN_pronoun} специализировался на военной подготовке в учреждении более низкого уровня.</Moyo_VatgrownSoldier.baseDescription>
+
+
+ <!-- 농부 -->
+
+ <Moyo_Farmer.title>Фермер Мойо</Moyo_Farmer.title>
+ <Moyo_Farmer.titleShort>Фермер</Moyo_Farmer.titleShort>
+ <Moyo_Farmer.baseDescription>{PAWN_nameDef} работала на фермах наверху, собирая ингредиенты и другие различные растительные волокна. На ферме по выращиванию морских водорослей жизнь {PAWN_nameDef} кажется довольно идиллической, если бы не было проблем с ворами, как и на любой другой ферме на земле, эта проблема доставляла ей много хлопот.</Moyo_Farmer.baseDescription>
+
+
+ <!-- 공방일꾼 -->
+
+ <Moyo_FactoryWorker.title>Мастеровая Мойо</Moyo_FactoryWorker.title>
+ <Moyo_FactoryWorker.titleShort>Мастеровая</Moyo_FactoryWorker.titleShort>
+ <Moyo_FactoryWorker.baseDescription>Даже холод и тьма морских глубин не могут скрыть свет и зной посреди маяка. {PAWN_nameDef} - рабочий, который работал в мастерской среднего класса и производила различное оборудование и продукцию. Последние заказы, который получала {PAWN_pronoun}, касался огнестрельного оружия.</Moyo_FactoryWorker.baseDescription>
+
+
+ <!-- 메카노이드 정비공 -->
+
+ <Moyo_MechanoidMaintainer.title>Механик механойдов Мойо</Moyo_MechanoidMaintainer.title>
+ <Moyo_MechanoidMaintainer.titleShort>Механик механойдов</Moyo_MechanoidMaintainer.titleShort>
+ <Moyo_MechanoidMaintainer.baseDescription>В конце концов, то, что заложило фундамент города Мойо, являлись механоиды. {PAWN_nameDef} отвечала за поддержание стареющего механоида в максимально возможном рабочем состоянии. Сила меканоидов, которые существовали сотни лет, заставила {PAWN_pronoun} осознать слабость тела.</Moyo_MechanoidMaintainer.baseDescription>
+
+
+ <!-- 공학자 -->
+
+ <Moyo_Engineer.title>Инженер Мойо</Moyo_Engineer.title>
+ <Moyo_Engineer.titleShort>Инженер</Moyo_Engineer.titleShort>
+ <Moyo_Engineer.baseDescription>{PAWN_nameDef} - инженер, ответственный за исследования и проектирование архитектуры и оборудования. {PAWN_pronoun}, как член научной команды, проверила несколько теорий и создавала прототипы, {PAWN_nameDef} была очень увлечена своей работой и поспособствовала разработке огнестрельного оружия. Правда, результаты проекта были настолько провальны, что никому не приходилось говорить о них.</Moyo_Engineer.baseDescription>
+
+
+ <!-- 사냥꾼 -->
+
+ <Moyo_Hunter.title>Охотник Мойо</Moyo_Hunter.title>
+ <Moyo_Hunter.titleShort>Охотник</Moyo_Hunter.titleShort>
+ <Moyo_Hunter.baseDescription>{PAWN_nameDef} путешествовала по морям, охотясь и ловя морских обитателей. В случае, если опасное существо угрожает безопасности маяка, {PAWN_pronoun} был обязан принять участие в операции по отражению атаки по приказу Совета Старейшин.</Moyo_Hunter.baseDescription>
+
+
+ <!-- 밀수업자 -->
+
+ <Moyo_Smuggler.title>Контрабандист Мойо</Moyo_Smuggler.title>
+ <Moyo_Smuggler.titleShort>Контрабандист</Moyo_Smuggler.titleShort>
+ <Moyo_Smuggler.baseDescription>Земля и океаны полны всевозможных сокровищ. {PAWN_nameDef} занималась поиском сокровищ для маяка. Сокровищами незаконно торговать на маяке без разрешения Совета Старейшин, но деньги в ее руках были важнее для {PAWN_nameDef}, и в результате {PAWN_pronoun} продолжала торговать как на суше, так и вне ее, избегая наблюдения совета.</Moyo_Smuggler.baseDescription>
+
+
+ <!-- 군인 -->
+
+ <Moyo_Soldier.title>Солдат Мойо</Moyo_Soldier.title>
+ <Moyo_Soldier.titleShort>Солдат</Moyo_Soldier.titleShort>
+ <Moyo_Soldier.baseDescription>{PAWN_nameDef} - профессиональный солдат, посвятившая себя обеспечению безопасности маяка и отражению атак чудовищ, угрожающих маяку. Однако пока {PAWN_pronoun} работала, социальная тревога, вызванная контрабандой, только усиливалась. В конце концов беспокойство переросло в гражданскую войну и поразило общество Мойо, и {PAWN_pronoun} была вынуждена повернуть оружие в сторону других Мойо.</Moyo_Soldier.baseDescription>
+
+
+ <!-- 심층광부 -->
+
+ <Moyo_DeepCoreMiner.title>Глубоководный шахтер Мойо</Moyo_DeepCoreMiner.title>
+ <Moyo_DeepCoreMiner.titleShort>Глубоководный шахтёр</Moyo_DeepCoreMiner.titleShort>
+ <Moyo_DeepCoreMiner.baseDescription>{PAWN_nameDef} - горняк, который добывает минералы бездны. Глубоководные горняки, которые носят тяжелые гидрокостюмы и добывают полезные ископаемые, появились сравнительно недавно из-за проблем с работой механоидов.</Moyo_DeepCoreMiner.baseDescription>
+
+
+ <!-- 지리학자 -->
+
+ <Moyo_Geologist.title>Географ Мойо</Moyo_Geologist.title>
+ <Moyo_Geologist.titleShort>Географ</Moyo_Geologist.titleShort>
+ <Moyo_Geologist.baseDescription>{PAWN_nameDef} исследовал и изучал глубоководную местность. Из-за характера работы {PAWN_pronoun} должна была проводить долгое время на подводной лодке со своей командой, поэтому ей пришлось привыкать к множеству задач.</Moyo_Geologist.baseDescription>
+
+
+ <!-- 지상 무역가 -->
+
+ <Moyo_SurfaceTrader.title>Наземный торговец Мойо</Moyo_SurfaceTrader.title>
+ <Moyo_SurfaceTrader.titleShort>Наземный торговец</Moyo_SurfaceTrader.titleShort>
+ <Moyo_SurfaceTrader.baseDescription>Торговля между маяком и материком велась под контролем Совета Старейшин и при помощи таких людей, как {PAWN_nameDef}. Большинство предметов на земле считаются предметами роскоши на маяке, что позволило {PAWN_pronoun} сколотить небольшое состояние. {PAWN_pronoun} безжалостно расправлялась с контрабандистами.</Moyo_SurfaceTrader.baseDescription>
+
+
+ <!-- 생물학자 -->
+
+ <Moyo_Biologist.title>Биолог Мойо</Moyo_Biologist.title>
+ <Moyo_Biologist.titleShort>Биолог</Moyo_Biologist.titleShort>
+ <Moyo_Biologist.baseDescription>{PAWN_nameDef} изучала тело Мойо, которое было законсервировано в древности и сохранилось до наших дней. Такие исследователи, как {PAWN_pronoun}, проследили "эволюционный" процесс Мойо и обнаружили, что ключевой элемент эволюции - это "Deep Blue". Это открытие оказало огромное влияние на общество Мойо.</Moyo_Biologist.baseDescription>
+
+
+ <!-- 착한고아원장 -->
+
+ <Moyo_KindOrphanageMaster.title>Директор приюта Мойо</Moyo_KindOrphanageMaster.title>
+ <Moyo_KindOrphanageMaster.titleShort>Директор приюта</Moyo_KindOrphanageMaster.titleShort>
+ <Moyo_KindOrphanageMaster.baseDescription>{PAWN_nameDef} заботилась о сиротах мойо, разлученных со своими родителями. {PAWN_pronoun} упорно трудилась, чтобы обучить детей, чтобы они могли воссоединиться со своими родителями или стать гордыми членами общества. Неизвестно, почему {PAWN_pronoun} начала эту работу, но, вероятно, это связано с личным опытом.</Moyo_KindOrphanageMaster.baseDescription>
+
+
+ <!-- 나쁜고아원장 -->
+
+ <Moyo_EvilOrphanageMaster.title>Директор приюта Мойо</Moyo_EvilOrphanageMaster.title>
+ <Moyo_EvilOrphanageMaster.titleShort>Директор приюта</Moyo_EvilOrphanageMaster.titleShort>
+ <Moyo_EvilOrphanageMaster.baseDescription>{PAWN_nameDef} позаботился о сиротах мойо, разлученных со своими родителями. {PAWN_pronoun} учила, что за пределами приюта опасно, и что на заброшенных полях охотятся на детей. Потому что дети - ценный актив. Не маяка, а её.</Moyo_EvilOrphanageMaster.baseDescription>
+
+
+ <!-- 하인 -->
+
+ <Moyo_Servant.title>Служанка Мойо</Moyo_Servant.title>
+ <Moyo_Servant.titleShort>Служанка</Moyo_Servant.titleShort>
+ <Moyo_Servant.baseDescription>{PAWN_nameDef} была служанкой богатых мойо. От уборки до готовки {PAWN_pronoun} отвечала за различные домашние дела, а также обслуживала особые потребности владельца. Не в состоянии удовлетворить растущие потребности, {PAWN_pronoun} внезапно исчезла, оставив после себя трупы.</Moyo_Servant.baseDescription>
+
+
+ <!-- 칵테일제조가 -->
+
+ <Moyo_CocktailMixer.title>Химик Мойо</Moyo_CocktailMixer.title>
+ <Moyo_CocktailMixer.titleShort>Химик</Moyo_CocktailMixer.titleShort>
+ <Moyo_CocktailMixer.baseDescription>{PAWN_nameDef} экспериментировала со смешиванием "Deep Blue" и различных "веществ" с материка, чтобы разработать новый продукт. Результат эксперимента {PAWN_nameDef} - наркотический коктейль, в основном синтезируемый с циклитом, приобрел взрывную популярность как на земле, так и на маяках.</Moyo_CocktailMixer.baseDescription>
+
+
+ <!-- 수경재배 농부 -->
+
+ <Moyo_HydroponicsFarmer.title>Гидропонный фермер Мойо</Moyo_HydroponicsFarmer.title>
+ <Moyo_HydroponicsFarmer.titleShort>Гидропонный фермер</Moyo_HydroponicsFarmer.titleShort>
+ <Moyo_HydroponicsFarmer.baseDescription>{PAWN_nameDef} получила семена земных растений и вырастила их на гидропонной ферме. Урожай, выращиваемый {PAWN_pronoun}, всегда продавался в убыток, благодаря ценам на «оригинальные» грунтовые культуры, которыми торгуют некоторые мойо. По мере того как эта ситуация сохранялась, {PAWN_nameDef} все больше и больше хотела иметь ферму на материке.</Moyo_HydroponicsFarmer.baseDescription>
+
+
+ <!-- 지상 예술가 -->
+
+ <Moyo_SurfaceArtist.title>Художник материковых пейзажей Мойо</Moyo_SurfaceArtist.title>
+ <Moyo_SurfaceArtist.titleShort>Материковый пейзажист</Moyo_SurfaceArtist.titleShort>
+ <Moyo_SurfaceArtist.baseDescription>{PAWN_nameDef} создавала и продавала прекрасные достопримечательности материка как произведения искусства. {PAWN_nameDef} никогда не видела материк лично, а материалов, содержащих материковые пейзажи, было немного. Однако клиенты {PAWN_pronoun} не знали ландшафта на материке, и пейзажи, нарисованные только воображением, были «фантастическими» и реалистичными одновременно.</Moyo_SurfaceArtist.baseDescription>
+
+
+ <!-- 세이렌 -->
+
+ <Moyo_Siren.title>Сирена Мойо</Moyo_Siren.title>
+ <Moyo_Siren.titleShort>Сирена</Moyo_Siren.titleShort>
+ <Moyo_Siren.baseDescription>{PAWN_nameDef} - знаменитость на маяке. Обладая красивой внешностью и фантастическим голосом, таланты проносились по социальному миру маяка и их называли Сиренами, таких очаровательных мойо,  как {PAWN_nameDef}.</Moyo_Siren.baseDescription>
+
+
+ <!-- 청부업자 -->
+
+ <Moyo_Hitman.title>Киллер Мойо</Moyo_Hitman.title>
+ <Moyo_Hitman.titleShort>Киллер</Moyo_Hitman.titleShort>
+ <Moyo_Hitman.baseDescription>{PAWN_nameDef} - дорогостоящий и бесшумный подрядчик. Грязная работа существует в любом обществе, и кто-то должен ее делать. Для {PAWN_pronoun}, ситуация или положение противника не рассматривается. Главное - это сумма, которую {PAWN_pronoun} получит, чтобы решить вопрос.</Moyo_Hitman.baseDescription>
+
+
+ <!-- 근위대 -->
+
+ <Moyo_GuardianStory.title>Морской гвардеец Мойо</Moyo_GuardianStory.title>
+ <Moyo_GuardianStory.titleShort>Гвардеец</Moyo_GuardianStory.titleShort>
+ <Moyo_GuardianStory.baseDescription>{PAWN_nameDef} был обучен подчиняться трем старейшинам в качестве члена стражи. Неизвестно, как и почему {PAWN_pronoun} стал правой рукой старейшин. Наверное, правду знают только трое старейшин и {PAWN_pronoun}.</Moyo_GuardianStory.baseDescription>
+
+
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MoyoMedicine.label>Медикамент Мойо</MoyoMedicine.label>
+	<MoyoMedicine.description>Это лекарство, содержащее Deep Blue. Это результат улучшения качества и эффективности лекарств за счет устранения зависимости от Deep Blue.</MoyoMedicine.description>
+	<BlueGo.label>Голубой таурин</BlueGo.label>
+	<BlueGo.description>Это коктейль, приготовленный путем смешивания наркотиков и Deep Blue. При использовании он вызывает зависимость к Deep Blue и вызвает эффект Го-сока.\n\nDeep Blue коктейль устраняет риск привыкания или передозировки базового препарата и уменьшает потребность в нем.</BlueGo.description>
+	<BlueGo.ingestible.ingestCommandString>{0} инъекция</BlueGo.ingestible.ingestCommandString>
+	<BlueGo.ingestible.ingestReportString>{0} инъекций.</BlueGo.ingestible.ingestReportString>
+	<BlueUp.label>Сапфировая масса</BlueUp.label>
+	<BlueUp.description>Это коктейль, приготовленный путем смешивания наркотиков и Deep Blue. При использовании он вызывает зависимость к Deep Blue и может вызвать эффект Бодрина.\n\nСапфировая масса устраняет риск привыкания или передозировки базового препарата и уменьшает потребность в нем.</BlueUp.description>
+	<BlueUp.ingestible.ingestCommandString>{0} инъекция</BlueUp.ingestible.ingestCommandString>
+	<BlueUp.ingestible.ingestReportString>{0} инъекций.</BlueUp.ingestible.ingestReportString>
+	<BlueYo.label>Голубая дымка</BlueYo.label>
+	<BlueYo.description>Это коктейль, приготовленный путем смешивания наркотиков и Deep Blue. При использовании он вызывает зависимость к Deep Blue и может вызвать эффект психина и его производных.\n\nГолубая дымка устраняет риск привыкания или передозировки базового препарата и уменьшает потребность в нем.</BlueYo.description>
+	<BlueYo.ingestible.ingestCommandString>{0} инъекция</BlueYo.ingestible.ingestCommandString>
+	<BlueYo.ingestible.ingestReportString>{0} инъекций.</BlueYo.ingestible.ingestReportString>
+	<BlueBurst.label>Голубой всплеск</BlueBurst.label>
+	<BlueBurst.description>Это лекарство, которое перегружает сердечно-сосудистую систему Мойо. Он работает только против Мойо, другие расы страдают только от отравления Deep Blue. Благодаря этому эффекту вы можете получить больше крови, но это создает большую нагрузку на сердце и в конечном итоге приводит к разрыву сердца.\n\n * Будьте осторожны при использовании *</BlueBurst.description>
+	<BlueBurst.ingestible.ingestCommandString>{0} инъекция</BlueBurst.ingestible.ingestCommandString>
+	<BlueBurst.ingestible.ingestReportString>{0} инъекций.</BlueBurst.ingestible.ingestReportString>
+	<BlueMed.label>Rezero-Blue</BlueMed.label>
+	<BlueMed.description>Медицинский препарат, замедляющий кровотечение и ускоряющий выздоровление, может использоваться всеми расами. Пользователь становится зависимым от Deep Blue и становится устойчивым к болезням и ранам.\n\nЭтот препарат, являющийся полноценным антагонистом Blue Burst, смог добиться желаемого эффекта восстановления, без разрыва чьего-либо сердце.</BlueMed.description>
+	<BlueMed.ingestible.ingestCommandString>{0} инъекция</BlueMed.ingestible.ingestCommandString>
+	<BlueMed.ingestible.ingestReportString>{0} инъекций.</BlueMed.ingestible.ingestReportString>
+	<PenoxyBlue.label>Фенокси-Blue</PenoxyBlue.label>
+	<PenoxyBlue.description>Фенозициллин, модифицированный Deep Blue, который действует как антибиотик. Малярия, Сонная болезнь и "черная смерть предотвращаются / лечатся за один раз. У пользователя развивается зависимость и сильная толерантность к Deep Blue.</PenoxyBlue.description>
+	<PenoxyBlue.ingestible.ingestCommandString>{0} инъекция</PenoxyBlue.ingestible.ingestCommandString>
+	<PenoxyBlue.ingestible.ingestReportString>{0} инъекций.</PenoxyBlue.ingestible.ingestReportString>
+	<Clensazure.label>Амфотерицин Blue</Clensazure.label>
+	<Clensazure.description>Амфотерицин, модифицированный Deep Blue, действует как репеллент. Он предотвращает / лечит висцеральных паразитов и паразитов за один раз. У пользователя развивается зависимость и сильная толерантность к Deep Blue.</Clensazure.description>
+	<Clensazure.ingestible.ingestCommandString>{0} инъекция</Clensazure.ingestible.ingestCommandString>
+	<Clensazure.ingestible.ingestReportString>{0} инъекций.</Clensazure.ingestible.ingestReportString>
+	<SustainerLapis.label>Добавка Lapis</SustainerLapis.label>
+	<SustainerLapis.description>Это препарат, позволяющий вести длительный бой. Сильный эффект возбуждения не дает почувствовать потребность в отдыхе и приеме пищи в течение короткого периода времени, а после окончания эффекта требуется период восстановления. У пользователя развивается зависимость и сильная толерантность к Deep Blue.</SustainerLapis.description>
+	<DetoxerCobalt.label>Detox-cobalt</DetoxerCobalt.label>
+	<DetoxerCobalt.description>Препарат, выводящий токсины, накопленные в организме, и предотвращающий дальнейшее отравление. Благодаря ускоренной детоксикации пользователь быстрее устает. У пользователя развивается зависимость и сильная толерантность к Deep Blue.</DetoxerCobalt.description>
+	<Moyo_HealerSerum.label>Сыворотка для восстановления AbyssTech Recovery</Moyo_HealerSerum.label>
+	<Moyo_HealerSerum.description>Это кристаллы биотехнологии Мойо, который регулирует извлечение механитов через Deep Blue. Он имеет ту же функцию, что и обычная восстанавливающая сыворотка, и в качестве проводника используется Deep Blue, но сопутствующего эффекта зависимости не происходит (но это не точно).\n\nЭто последнее слово в технике Deep Blue для медицинского использования, а также биотехнологиях маяка. Без преувеличения можно сказать, что эта сыворотка, одно из самых больших достижений маяка, является лучшим лекарством, которое может произвести Abysstech.\n\n *У пользователя не развивается зависимость к Deep Blue.</Moyo_HealerSerum.description>
+	<Moyo_HealerSerum.comps.0.useLabel>Применение сыворотки AbyssTech Recovery</Moyo_HealerSerum.comps.0.useLabel>
+	<Moyo_BelialV.label>Belial-V</Moyo_BelialV.label>
+	<Moyo_BelialV.description>Смесь механитов, похожая на люциферий, который препятствует распаду механитов через Deep Blue. из-за этого эффект препарата непостоянен, и можно ожидать широкого спектра укрепляющих эффектов.\n\nНазвание этого препарата происходит от количества Deep Blue, необходимого для его производства, и, как следует из названия, это, возможно, безвыйгрышная лотерея. Многочисленные мойо были принесены в жертву для изготовления этого наркотика. Этот фантастический и в то же время ужасный наркотик известен как шедевр картеля Мойо. * У пользователя не развивается зависимость к Deep Blue.</Moyo_BelialV.description>
+	<Moyo_BelialV.ingestible.ingestCommandString>{0}  инъекция</Moyo_BelialV.ingestible.ingestCommandString>
+	<Moyo_BelialV.ingestible.ingestReportString>{0} инъекций.</Moyo_BelialV.ingestible.ingestReportString>
+</LanguageData>

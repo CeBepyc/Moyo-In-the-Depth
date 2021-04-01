@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Moyo.label>Мойо</Moyo.label>
+	<Moyo.corePart.parts.4.customLabel>Хвост</Moyo.corePart.parts.4.customLabel>
+	<Moyo.corePart.parts.7.customLabel>Левое легкое</Moyo.corePart.parts.7.customLabel>
+	<Moyo.corePart.parts.8.customLabel>Правое легкое</Moyo.corePart.parts.8.customLabel>
+	<Moyo.corePart.parts.9.customLabel>Левая почка</Moyo.corePart.parts.9.customLabel>
+	<Moyo.corePart.parts.10.customLabel>Правая почка</Moyo.corePart.parts.10.customLabel>
+	<Moyo.corePart.parts.12.parts.0.parts.1.customLabel>Левый глаз</Moyo.corePart.parts.12.parts.0.parts.1.customLabel>
+	<Moyo.corePart.parts.12.parts.0.parts.2.customLabel>Правый глаз</Moyo.corePart.parts.12.parts.0.parts.2.customLabel>
+	<Moyo.corePart.parts.12.parts.0.parts.3.customLabel>Левая антенна</Moyo.corePart.parts.12.parts.0.parts.3.customLabel>
+	<Moyo.corePart.parts.12.parts.0.parts.4.customLabel>Правая антенна</Moyo.corePart.parts.12.parts.0.parts.4.customLabel>
+	<Moyo.corePart.parts.13.customLabel>Левое плечо</Moyo.corePart.parts.13.customLabel>
+	<Moyo.corePart.parts.13.parts.0.customLabel>Левая ключица</Moyo.corePart.parts.13.parts.0.customLabel>
+	<Moyo.corePart.parts.13.parts.1.customLabel>Левая рука</Moyo.corePart.parts.13.parts.1.customLabel>
+	<Moyo.corePart.parts.13.parts.1.parts.0.customLabel>Левая плечевая кость</Moyo.corePart.parts.13.parts.1.parts.0.customLabel>
+	<Moyo.corePart.parts.13.parts.1.parts.1.customLabel>Левая лучевая кость</Moyo.corePart.parts.13.parts.1.parts.1.customLabel>
+	<Moyo.corePart.parts.13.parts.1.parts.2.customLabel>Левая кисть</Moyo.corePart.parts.13.parts.1.parts.2.customLabel>
+	<Moyo.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>Мизинец левой руки</Moyo.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+	<Moyo.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>Безымянный палец левой руки</Moyo.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+	<Moyo.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>Средний палец левой й руки</Moyo.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+	<Moyo.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>Указательный левой палец руки</Moyo.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+	<Moyo.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>Большой палец левой руки</Moyo.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+	<Moyo.corePart.parts.14.customLabel>Правое плечо</Moyo.corePart.parts.14.customLabel>
+	<Moyo.corePart.parts.14.parts.0.customLabel>Правая ключица</Moyo.corePart.parts.14.parts.0.customLabel>
+	<Moyo.corePart.parts.14.parts.1.customLabel>Правая рука</Moyo.corePart.parts.14.parts.1.customLabel>
+	<Moyo.corePart.parts.14.parts.1.parts.0.customLabel>Правая плечевая кость</Moyo.corePart.parts.14.parts.1.parts.0.customLabel>
+	<Moyo.corePart.parts.14.parts.1.parts.1.customLabel>Правая лучевая кость</Moyo.corePart.parts.14.parts.1.parts.1.customLabel>
+	<Moyo.corePart.parts.14.parts.1.parts.2.customLabel>Правая кисть</Moyo.corePart.parts.14.parts.1.parts.2.customLabel>
+	<Moyo.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>Мизинец правой руки</Moyo.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+	<Moyo.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>Безымянный палец правой руки</Moyo.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+	<Moyo.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>Средний палец правой руки</Moyo.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+	<Moyo.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>Указательный палец правой руки</Moyo.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+	<Moyo.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>Большой палец правой руки</Moyo.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+	<Moyo.corePart.parts.16.customLabel>Левая нога</Moyo.corePart.parts.16.customLabel>
+	<Moyo.corePart.parts.16.parts.0.customLabel>Левая бедренная кость</Moyo.corePart.parts.16.parts.0.customLabel>
+	<Moyo.corePart.parts.16.parts.1.customLabel>Левая большая берцовая кость</Moyo.corePart.parts.16.parts.1.customLabel>
+	<Moyo.corePart.parts.16.parts.2.customLabel>Левая стопа</Moyo.corePart.parts.16.parts.2.customLabel>
+	<Moyo.corePart.parts.16.parts.2.parts.0.customLabel>Мизинец левой ноги</Moyo.corePart.parts.16.parts.2.parts.0.customLabel>
+	<Moyo.corePart.parts.16.parts.2.parts.1.customLabel>Безымянный палец левой ноги</Moyo.corePart.parts.16.parts.2.parts.1.customLabel>
+	<Moyo.corePart.parts.16.parts.2.parts.2.customLabel>Средний палец левой ноги</Moyoноги.corePart.parts.16.parts.2.parts.2.customLabel>
+	<Moyo.corePart.parts.16.parts.2.parts.3.customLabel>Указательный палец левой ноги</Moyo.corePart.parts.16.parts.2.parts.3.customLabel>
+	<Moyo.corePart.parts.16.parts.2.parts.4.customLabel>Большой палец левой ноги</Moyo.corePart.parts.16.parts.2.parts.4.customLabel>
+	<Moyo.corePart.parts.17.customLabel>Правая нога</Moyo.corePart.parts.17.customLabel>
+	<Moyo.corePart.parts.17.parts.0.customLabel>Правая бедренная кость</Moyo.corePart.parts.17.parts.0.customLabel>
+	<Moyo.corePart.parts.17.parts.1.customLabel>Правая большая берцовая кость</Moyo.corePart.parts.17.parts.1.customLabel>
+	<Moyo.corePart.parts.17.parts.2.customLabel>Правая стопа</Moyo.corePart.parts.17.parts.2.customLabel>
+	<Moyo.corePart.parts.17.parts.2.parts.0.customLabel>Мизинец правой ноги</Moyo.corePart.parts.17.parts.2.parts.0.customLabel>
+	<Moyo.corePart.parts.17.parts.2.parts.1.customLabel>Безымянный палец правой ноги</Moyo.corePart.parts.17.parts.2.parts.1.customLabel>
+	<Moyo.corePart.parts.17.parts.2.parts.2.customLabel>Средний палец правой ноги</Moyo.corePart.parts.17.parts.2.parts.2.customLabel>
+	<Moyo.corePart.parts.17.parts.2.parts.3.customLabel>Указательный палец правой ноги</Moyo.corePart.parts.17.parts.2.parts.3.customLabel>
+	<Moyo.corePart.parts.17.parts.2.parts.4.customLabel>Большой палец правой ноги</Moyo.corePart.parts.17.parts.2.parts.4.customLabel>
+	<Moyo_Hexapod.label>Гексапод</Moyo_Hexapod.label>
+	<Moyo_Hexapod.corePart.parts.0.parts.1.customLabel>Датчик левого зрения</Moyo_Hexapod.corePart.parts.0.parts.1.customLabel>
+	<Moyo_Hexapod.corePart.parts.0.parts.2.customLabel>Датчик правого зрения</Moyo_Hexapod.corePart.parts.0.parts.2.customLabel>
+	<Moyo_Hexapod.corePart.parts.0.parts.3.customLabel>Левый датчик слуха</Moyo_Hexapod.corePart.parts.0.parts.3.customLabel>
+	<Moyo_Hexapod.corePart.parts.0.parts.4.customLabel>Правый датчик слуха</Moyo_Hexapod.corePart.parts.0.parts.4.customLabel>
+	<Moyo_Hexapod.corePart.parts.1.customLabel>Первое соединение щупальца</Moyo_Hexapod.corePart.parts.1.customLabel>
+	<Moyo_Hexapod.corePart.parts.1.parts.0.customLabel>Первое щупальце</Moyo_Hexapod.corePart.parts.1.parts.0.customLabel>
+	<Moyo_Hexapod.corePart.parts.2.customLabel>Второе соединение щупальца</Moyo_Hexapod.corePart.parts.2.customLabel>
+	<Moyo_Hexapod.corePart.parts.2.parts.0.customLabel>Второе щупальце</Moyo_Hexapod.corePart.parts.2.parts.0.customLabel>
+	<Moyo_Hexapod.corePart.parts.3.customLabel>Третье соединение щупальца</Moyo_Hexapod.corePart.parts.3.customLabel>
+	<Moyo_Hexapod.corePart.parts.3.parts.0.customLabel>Третье щупальце</Moyo_Hexapod.corePart.parts.3.parts.0.customLabel>
+	<Moyo_Hexapod.corePart.parts.4.customLabel>Четвертое соединение щупальца</Moyo_Hexapod.corePart.parts.4.customLabel>
+	<Moyo_Hexapod.corePart.parts.4.parts.0.customLabel>Четвертое щупальце</Moyo_Hexapod.corePart.parts.4.parts.0.customLabel>
+	<Moyo_Hexapod.corePart.parts.5.customLabel>Пятое соединение щупальца</Moyo_Hexapod.corePart.parts.5.customLabel>
+	<Moyo_Hexapod.corePart.parts.5.parts.0.customLabel>Пятое щупальце</Moyo_Hexapod.corePart.parts.5.parts.0.customLabel>
+	<Moyo_Hexapod.corePart.parts.6.customLabel>Шестое соединение щупальца</Moyo_Hexapod.corePart.parts.6.customLabel>
+	<Moyo_Hexapod.corePart.parts.6.parts.0.customLabel>Шестое щупальце</Moyo_Hexapod.corePart.parts.6.parts.0.customLabel>
+	<Moyo_Pressurepod.label>Сжатопод</Moyo_Pressurepod.label>
+	<Moyo_Pressurepod.corePart.parts.0.parts.1.customLabel>Датчик левого зрения</Moyo_Pressurepod.corePart.parts.0.parts.1.customLabel>
+	<Moyo_Pressurepod.corePart.parts.0.parts.2.customLabel>Датчик правого зрения</Moyo_Pressurepod.corePart.parts.0.parts.2.customLabel>
+	<Moyo_Pressurepod.corePart.parts.0.parts.3.customLabel>Левый датчик слуха</Moyo_Pressurepod.corePart.parts.0.parts.3.customLabel>
+	<Moyo_Pressurepod.corePart.parts.0.parts.4.customLabel>Правый датчик слуха</Moyo_Pressurepod.corePart.parts.0.parts.4.customLabel>
+	<Moyo_Pressurepod.corePart.parts.1.customLabel>Соединение правой руки</Moyo_Pressurepod.corePart.parts.1.customLabel>
+	<Moyo_Pressurepod.corePart.parts.1.parts.0.customLabel>Правый измельчитель</Moyo_Pressurepod.corePart.parts.1.parts.0.customLabel>
+	<Moyo_Pressurepod.corePart.parts.2.customLabel>Соединение левой руки</Moyo_Pressurepod.corePart.parts.2.customLabel>
+	<Moyo_Pressurepod.corePart.parts.2.parts.0.customLabel>Левый измельчитель</Moyo_Pressurepod.corePart.parts.2.parts.0.customLabel>
+	<Moyo_Pressurepod.corePart.parts.3.customLabel>Первая левая нога</Moyo_Pressurepod.corePart.parts.3.customLabel>
+	<Moyo_Pressurepod.corePart.parts.4.customLabel>Первая правая нога</Moyo_Pressurepod.corePart.parts.4.customLabel>
+	<Moyo_Pressurepod.corePart.parts.5.parts.1.customLabel>Вторая левая нога</Moyo_Pressurepod.corePart.parts.5.parts.1.customLabel>
+	<Moyo_Pressurepod.corePart.parts.5.parts.2.customLabel>Вторая правая нога</Moyo_Pressurepod.corePart.parts.5.parts.2.customLabel>
+	<Moyo_Pressurepod.corePart.parts.5.parts.3.parts.1.customLabel>Третья левая нога</Moyo_Pressurepod.corePart.parts.5.parts.3.parts.1.customLabel>
+	<Moyo_Pressurepod.corePart.parts.5.parts.3.parts.2.customLabel>Третья правая нога</Moyo_Pressurepod.corePart.parts.5.parts.3.parts.2.customLabel>
+	<Moyo_Pressurepod.corePart.parts.5.parts.3.parts.3.parts.1.customLabel>Четвертая левая нога</Moyo_Pressurepod.corePart.parts.5.parts.3.parts.3.parts.1.customLabel>
+	<Moyo_Pressurepod.corePart.parts.5.parts.3.parts.3.parts.2.customLabel>Четвертая правая нога</Moyo_Pressurepod.corePart.parts.5.parts.3.parts.3.parts.2.customLabel>
+
+
+</LanguageData>

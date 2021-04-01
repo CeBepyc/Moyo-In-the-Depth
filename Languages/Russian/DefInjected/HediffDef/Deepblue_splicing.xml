@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BlueGoHigh.label>Голубой таурин</BlueGoHigh.label>
+  <BlueGoHigh.labelNoun>Голубой таурин</BlueGoHigh.labelNoun>
+  <BlueGoHigh.description>Go-сок смешанный с Deep Blue, течет по кровеносным сосудам, повышая боевые возможности. Не перекрывается с Go-соком.</BlueGoHigh.description>
+  <BlueUpHigh.label>Сапфировая масса</BlueUpHigh.label>
+  <BlueUpHigh.labelNoun>Сапфировая масса</BlueUpHigh.labelNoun>
+  <BlueUpHigh.description>Бодрин в смеси с Deep Blue проходит по кровеносным сосудам, повышая работоспособность. Не перекрывается с бодрином.</BlueUpHigh.description>
+  <BlueYoHigh.label>Голубая дымка</BlueYoHigh.label>
+  <BlueYoHigh.labelNoun>Голубая дымка</BlueYoHigh.labelNoun>
+  <BlueYoHigh.description>Психин в смеси с Deep Blue течет по кровеносным сосудам, делая пользователей счастливыми. Не перекрывается с психином и хлопьями психина.</BlueYoHigh.description>
+  <BlueBurstHigh.label>Сердечно-сосудистая перегрузка посредством голубого всплеска</BlueBurstHigh.label>
+  <BlueBurstHigh.labelNoun>Сердечно-сосудистая перегрузка</BlueBurstHigh.labelNoun>
+  <BlueBurstHigh.description>Сердечно-сосудистая система перегружена. Вырабатывается огромное количество крови, что ложится тяжелой нагрузкой на сердце. Этот эффект убивает цель.</BlueBurstHigh.description>
+  <BlueBurstT.label>Голубой всплеск Т</BlueBurstT.label>
+  <BlueBurstT.description>null.</BlueBurstT.description>
+  <BlueBurstA.label>Голубой всплеск А</BlueBurstA.label>
+  <BlueBurstA.description>null.</BlueBurstA.description>
+  <BlueMedHigh.label>Повышение устойчивости посредством Rezero-Blue</BlueMedHigh.label>
+  <BlueMedHigh.labelNoun>Повышение устойчивости Rezero-Blue</BlueMedHigh.labelNoun>
+  <BlueMedHigh.description>Повышается устойчивость. Этот эффект снизит общее кровотечение и ускорит заживление ран и инфекций..</BlueMedHigh.description>
+  <PenoxyBlueHigh.label>Фенокси-Blue</PenoxyBlueHigh.label>
+  <PenoxyBlueHigh.description>Иммунный / лечебный эффект против некоторых заболеваний, вызванный Фенокси-Blue. Эффект разовый.</PenoxyBlueHigh.description>
+  <ClensazureHigh.label>ПАмфотерицин Blue</ClensazureHigh.label>
+  <ClensazureHigh.description>Это иммунный / лечебный эффект против паразитов, вызванный амфотерицином Blue. Эффект разовый.</ClensazureHigh.description>
+  <SustainerLapisHigh.label>Lapis-добавка</SustainerLapisHigh.label>
+  <SustainerLapisHigh.description>Это пробуждающийся эффект Lapis-добавки. Вы не чувствуете потребности в еде и сне в течение короткого периода времени.</SustainerLapisHigh.description>
+  <SustainerLapisHigh_After.label>Восстановление от Lapis-добавки</SustainerLapisHigh_After.label>
+  <SustainerLapisHigh_After.description>Восстановление от эффекта Lapis-добавки. В течение этого периода вы больше не сможете использовать добавки.</SustainerLapisHigh_After.description>
+  <DetoxerCobaltHigh.label>Повышение детоксикационной способности</DetoxerCobaltHigh.label>
+  <DetoxerCobaltHigh.description>Повышена детоксикационная способность. Выводятся накопившиеся в организме токсины и ппредотвращается дальнейшее отравление.</DetoxerCobaltHigh.description>
+</LanguageData>

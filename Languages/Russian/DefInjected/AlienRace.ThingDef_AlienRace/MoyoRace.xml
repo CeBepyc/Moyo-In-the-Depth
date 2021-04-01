@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Alien_Moyo.label>Мойо</Alien_Moyo.label>
+	<Alien_Moyo.description>Это гуманоидная раса, поселившаяся в глубоководном городе, который они называют маяком. Кровь тех, кто обладает некоторыми характеристиками морских существ, содержит полезные компоненты в области медицины.\n\n Они ведут своюродословную от оживлённой секты пионеров глубокого моря, и через поколение ремоделирования тела, они имеют текущую форму. Они распространились по многим местам, строя процветающие подводные города.</Alien_Moyo.description>
+	<Alien_Moyo.tools.0.label>Левый кулак</Alien_Moyo.tools.0.label>
+	<Alien_Moyo.tools.1.label>Правый кулак</Alien_Moyo.tools.1.label>
+	<Alien_Moyo.tools.2.label>Зубы</Alien_Moyo.tools.2.label>
+	<Alien_Moyo.tools.3.label>Голова</Alien_Moyo.tools.3.label>
+</LanguageData>

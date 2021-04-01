@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Extract_DeepBlueCorpse.label>Переработка трупа Мойо</Extract_DeepBlueCorpse.label>
+	<Extract_DeepBlueCorpse.description>Тело Мойо перерабатывается, чтобы извлечь оставшийся Deep Blue. Все побочные продукты теряются в этом процессе.\n\nКонечный продукт переработки  связан с наркотиками.</Extract_DeepBlueCorpse.description>
+	<Extract_DeepBlueCorpse.jobString>Переработка трупа Мойо.</Extract_DeepBlueCorpse.jobString>
+
+	<Make_DBSF.label>Пакет питательных веществ x5</Make_DBSF.label>
+	<Make_DBSF.description>Извлеките питательные вещества, чтобы создать набор питательных веществ для использования в станции Deep Blue.</Make_DBSF.description>
+	<Make_DBSF.jobString>Из 5 пакетов с питательными веществами</Make_DBSF.jobString>
+
+	<Make_DBSFbulk.label>Пакет питательных веществ x20</Make_DBSFbulk.label>
+	<Make_DBSFbulk.description>Питательные вещества извлекаются для создания большого количества наборов питательных веществ для использования в станции Deep Blue.</Make_DBSFbulk.description>
+	<Make_DBSFbulk.jobString>Пакет питательных веществ x20.</Make_DBSFbulk.jobString>
+
+	<Make_Moyo_Abyssteel.label>Создать безднасталь</Make_Moyo_Abyssteel.label>
+	<Make_Moyo_Abyssteel.description>Изготавливается сплав безнастали, обычно используемый в маяках. Он понадобится вам для изготовления оружия, обмундирования и оборудования.</Make_Moyo_Abyssteel.description>
+	<Make_Moyo_Abyssteel.jobString>Безднасталь находится в производстве.</Make_Moyo_Abyssteel.jobString>
+
+	<Make_AbyssPearl.label>Жемчужина бездны</Make_AbyssPearl.label>
+	<Make_AbyssPearl.description>Мы производим жемчуг бездны из чистого Deep Blue, она необходима для изготовления особых предметов.</Make_AbyssPearl.description>
+	<Make_AbyssPearl.jobString>Изготовление Жемчужины бездны.</Make_AbyssPearl.jobString>
+
+	<Make_Moyo_Depthweave.label>Безднаплет</Make_Moyo_Depthweave.label>
+	<Make_Moyo_Depthweave.description>Мы производим безднаплет - универсальное волокно, используемое в маяках..</Make_Moyo_Depthweave.description>
+	<Make_Moyo_Depthweave.jobString>Безднаплет в производстве.</Make_Moyo_Depthweave.jobString>
+</LanguageData>

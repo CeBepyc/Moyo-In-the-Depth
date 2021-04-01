@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Moyo_FakeTail.description>Это искусственный хвост из ткани. Он может действовать как груз.</Moyo_FakeTail.description>
+  <Moyo_FakeTail.label>Искусственный хвост Мойо</Moyo_FakeTail.label>
+  <Moyo_FakeTail.labelNoun>Искусственный хвост Мойо</Moyo_FakeTail.labelNoun>
+  <Moyo_BionicTail.description>Это бионический хвост, сделанный с использованием передовых технологий. По сравнению с оригинальным хвостом, он во многих отношениях превосходит его.</Moyo_BionicTail.description>
+  <Moyo_BionicTail.label>Бионический хвост Мойо</Moyo_BionicTail.label>
+  <Moyo_BionicTail.labelNoun>Бионический хвост Мойо</Moyo_BionicTail.labelNoun>
+  <Moyo_AdvancedHeart.label>Сердце AbyssTech</Moyo_AdvancedHeart.label>
+  <Moyo_AdvancedHeart.labelNoun>Сердце AbyssTech</Moyo_AdvancedHeart.labelNoun>
+  <Moyo_AdvancedHeart.description>Сердце AbyssTech установлено.</Moyo_AdvancedHeart.description>
+</LanguageData>

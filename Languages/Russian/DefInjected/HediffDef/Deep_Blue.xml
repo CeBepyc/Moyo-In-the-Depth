@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- moyo defult hediff -->
+
+  <MoyoBaseHediff.label>Базовое состояние Мойо</MoyoBaseHediff.label>
+  <MoyoBaseHediff.description>Это базовое состояние Мойо, на него не действует Deep Blue. И ты не должен это читать.</MoyoBaseHediff.description>
+
+
+  <!-- AbyssSerum -->
+
+  <DeepBlues.label>Deep Blue</DeepBlues.label>
+  <DeepBlues.description>Тело, усиленное Deep Blue, имеет улучшенные способности. В качестве небольшого побочного эффекта пользователь чувствует себя немного подавленным. Поскольку нет никакого способа обратить вспять клетки, деформированные введенным Deep Blue, этот эффект также нельзя устранить.</DeepBlues.description>
+
+
+  <!-- MoyoDeepBlueReaction -->
+
+  <Moyo_DeepBlueReaction.label>Deep Blue мутация</Moyo_DeepBlueReaction.label>
+  <Moyo_DeepBlueReaction.description>В тело Мойо сделали инъекцию Deep Blue. Со здоровьем все в порядке, но Мойо будет тошнить.</Moyo_DeepBlueReaction.description>
+  <Moyo_DeepBlueReaction.stages.0.label>Незначительное</Moyo_DeepBlueReaction.stages.0.label>
+  <Moyo_DeepBlueReaction.stages.1.label>Легкое</Moyo_DeepBlueReaction.stages.1.label>
+  <Moyo_DeepBlueReaction.stages.2.label>Серьёзное</Moyo_DeepBlueReaction.stages.2.label>
+  <Moyo_DeepBlueReaction.stages.3.label>Экстремальное</Moyo_DeepBlueReaction.stages.3.label>
+
+
+  <!-- DeepBlueddiction -->
+
+  <DeepBlueTolerance.label>Толерантность к Deep Blue</DeepBlueTolerance.label>
+  <DeepBlueTolerance.description>Клетки, мутировавшие под воздействием Deep Blue, со временем становятся все более нечувствительными к Deep Blue. В будущем вам понадобится больше Deep Blue, чтобы удовлетворить потребности вашего тела..</DeepBlueTolerance.description>
+
+  <DeepBlueAddiction.label>Зависимость к Deep Blue</DeepBlueAddiction.label>
+  <DeepBlueAddiction.description>Тело, после мутации Deep Blue, постоянно поглощает Deep Blue, чтобы поддерживать свои функции. Мутировавшие клетки, которые потребляют Deep Blue в качестве топлива для жизнедеятельности, войдут в состояние псевдогибернации, чтобы минимизировать потребление Deep Blue, если подача Deep Blue будет прервана.</DeepBlueAddiction.description>
+  <DeepBlueAddiction.stages.1.label>Спячка из-за недостатка Deep Blue</DeepBlueAddiction.stages.1.label>
+
+
+</LanguageData>

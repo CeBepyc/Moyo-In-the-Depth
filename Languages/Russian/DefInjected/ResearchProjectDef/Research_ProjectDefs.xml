@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MoyoProduction.label>Технологии AbyssTech</MoyoProduction.label>
+	<MoyoProduction.description>Изучите инженерные технологии маяков, чтобы получить подсказки для создания их оборудования.</MoyoProduction.description>
+
+	<MoyoChargedBolt.label>Электромагнитные стволы</MoyoChargedBolt.label>
+	<MoyoChargedBolt.description>Вы можете создать электронное оружие в новой интерпретации Мойо. Это система вооружения, в которой используются болты для минимизации рассеивания энергии, и не требует больших вложений благодаря исследованиям базовой технологии.</MoyoChargedBolt.description>
+
+	<MoyoCryoBlaster.label>Конверсия криогенных технологий</MoyoCryoBlaster.label>
+	<MoyoCryoBlaster.description>Вы можете использовать струи холодного воздуха для сдерживания толпы. Запущенный хладагент быстро замерзает, вызывая обморожение кожи противника.</MoyoCryoBlaster.description>
+
+	<DeepSeaProtection.label>Снаряжение для глубоководного дайвинга</DeepSeaProtection.label>
+	<DeepSeaProtection.description>Вы можете создать гидрокостюм для Мойо. Гидрокостюмам, которые начали использоваться как броня во время гражданской войны, пришлось претерпеть множество модификаций, таких как отрезание хвоста для плавной работы на земле.</DeepSeaProtection.description>
+
+	<GuardianModule.label>Снаряжение Морской гвардии по технологиям Abysstech</GuardianModule.label>
+	<GuardianModule.description>С помощью ИИ вы можете построить самое мощное оборудование маяка. Жемчужина технологий AbyssTech находится в ваших руках.</GuardianModule.description>
+
+	<DeepBlue_Research.label>Экстракция Deep Blue</DeepBlue_Research.label>
+	<DeepBlue_Research.description>Мы изучаем, как производить различные лекарства, используя Deep Blue.</DeepBlue_Research.description>
+
+	<DeepBlue_MedResearch.label>Медицинские технологии Deep Blue</DeepBlue_MedResearch.label>
+	<DeepBlue_MedResearch.description>Методы исследования использования Deep Blue в медицинских целях.</DeepBlue_MedResearch.description>
+
+	<DBS_Research.label>Синтез Deep Blue</DBS_Research.label>
+	<DBS_Research.description>Мы изучаем способы непрерывного производства Deep Blue. Поскольку синтезировать Deep Blue невозможно, необходимо разработать новые методы.</DBS_Research.description>
+
+	<DeepBlue_Manipulation.label>Передовые технологии Deep Blue</DeepBlue_Manipulation.label>
+	<DeepBlue_Manipulation.description>Благодаря глубокому пониманию биотехнологий и машиностроения, Deep Blue можно манипулировать для создания предметов с огромными эффектами.</DeepBlue_Manipulation.description>
+</LanguageData>

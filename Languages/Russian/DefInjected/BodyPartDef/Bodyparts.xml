@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Moyo_Tail.label>Хвост Мойо</Moyo_Tail.label>
+	<MoyoHeart.label>Сердце Мойо</MoyoHeart.label>
+	<HexapodHead.label>Голова гексапода</HexapodHead.label>
+	<HexapodHeadShell.label>Головная раковина гексапода</HexapodHeadShell.label>
+	<Hexapod_TentacleJoint.label>Сочленение тентаклей гексапода</Hexapod_TentacleJoint.label>
+	<Hexapod_Tentacle.label>Тентакли</Hexapod_Tentacle.label>
+	<pressurepod_ArmJoint.label>Сочленение рук сжатопода</pressurepod_ArmJoint.label>
+	<pressurepod_club.label>Радула сжатопода</pressurepod_club.label>
+	<pressurepod_Leg.label>Ноги сжатопода</pressurepod_Leg.label>
+	<PressurePod_Seg1.labelShort>Первый сегмент</PressurePod_Seg1.labelShort>
+	<PressurePod_Seg1.label>Первый сегмент сжатопода</PressurePod_Seg1.label>
+	<PressurePod_Seg2.labelShort>Второй сегмент</PressurePod_Seg2.labelShort>
+	<PressurePod_Seg2.label>Второй сегмент сжатопода</PressurePod_Seg2.label>
+	<PressurePod_Seg3.labelShort>Третий сегмент</PressurePod_Seg3.labelShort>
+	<PressurePod_Seg3.label>Третий сегмент сжатопода</PressurePod_Seg3.label>
+	<PressurePod_Seg4.labelShort>Четвертый сегмент</PressurePod_Seg4.labelShort>
+	<PressurePod_Seg4.label>Четвертый сегмент</PressurePod_Seg4.label>
+	<PressurePod_Seg5.labelShort>Пятый сегмент</PressurePod_Seg5.labelShort>
+	<PressurePod_Seg5.label>Пятый сегмент сжатопода</PressurePod_Seg5.label>
+</LanguageData>

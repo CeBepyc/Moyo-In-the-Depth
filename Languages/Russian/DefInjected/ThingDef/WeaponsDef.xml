@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 근접 -->
+	<Moyo_Wrench.label>Гаечный ключ Moyo</Moyo_Wrench.label>
+	<Moyo_Wrench.description>Это инструмент для разворачивания изогнутой железной пластины и затягивания болтов. Если вам не нужно, вы также можете использовать его для удара по голове.</Moyo_Wrench.description>
+	<Moyo_Wrench.tools.0.label>Рукоятка</Moyo_Wrench.tools.0.label>
+	<Moyo_Wrench.tools.1.label>Головка</Moyo_Wrench.tools.1.label>
+	<Moyo_Knife.label>Водолазный нож Мойо</Moyo_Knife.label>
+	<Moyo_Knife.description>Нож был полезным инструментом всегда и везде, точно так же и в море. Лезвие из пластика полюбилось многим дайверам Мойо за его легкость и остроту.</Moyo_Knife.description>
+	<Moyo_Knife.tools.0.label>Рукоятка</Moyo_Knife.tools.0.label>
+	<Moyo_Knife.tools.1.label>Лезвие</Moyo_Knife.tools.1.label>
+	<Moyo_Knife.tools.2.label>Лезвие</Moyo_Knife.tools.2.label>
+	<Moyo_Piledriver.label>Сваезабиватель</Moyo_Piledriver.label>
+	<Moyo_Piledriver.description>Это электромагнитное оборудование используется шахтерами для забивания свай в породы. Его неудобно использовать, и он требует много времени, чтобы стрелять сваями, но он обладает способностью разбивать и пробивать камни.\n\nПо мере того, как количество доступных механоидов уменьшалось, многим мойо приходить самостоятельно поддерживать количество энергии..</Moyo_Piledriver.description>
+	<Moyo_Piledriver.tools.0.label>корпус</Moyo_Piledriver.tools.0.label>
+	<Moyo_Piledriver.tools.1.label>свая</Moyo_Piledriver.tools.1.label>
+	<Moyo_Spear.label>Глефа Мойо</Moyo_Spear.label>
+	<Moyo_Spear.description>Древковое оружие Мойо с прикрепленным дополнительным шипом или лезвием. Были проведены исследования: чтобы свести к минимуму кровотечение с поверхности среза путем применения криогенной технологии, но были только побочные эффекты, которые остаются причиной большей боли у цели.\n\nЭто оружие является оружием ближнего боя и может стрелять лезвием, что делает это оружие неблагоприятным выбором для тех, кто ценит боевые качества в ближнем бое.</Moyo_Spear.description>
+	<Moyo_Spear.tools.0.label>Древко</Moyo_Spear.tools.0.label>
+	<Moyo_Spear.tools.1.label>Лезвие глефы</Moyo_Spear.tools.1.label>
+	<Moyo_Spear.tools.2.label>дополнительное лезвие</Moyo_Spear.tools.2.label>
+	<Moyo_PowerFist.label>Силовой кулак Мойо</Moyo_PowerFist.label>
+	<Moyo_PowerFist.description>Механизированное оборудование руки, которая укрепляет кинетическую силу удара, для выполнения различных подводных задач. Он разработан для использования с гидрокостюмом, но может использоваться и без него.</Moyo_PowerFist.description>
+	<Moyo_PowerFist.tools.0.label>кулак</Moyo_PowerFist.tools.0.label>
+	<Moyo_PowerFist.tools.1.label>корпус</Moyo_PowerFist.tools.1.label>
+	<!-- 원거리 -->
+	<Moyo_Pistol.label>Пистолет Мойо</Moyo_Pistol.label>
+	<Moyo_Pistol.description>Пистолет Moyos создан для удовлетворения спроса на короткоствольное и легкое электромагнитное оружие. Большая часть надежности была потеряна из-за чрезмерного крепления ствола ускорителя, основы существующего электромагнитного оружия Мойо, но его относительно небольшой размер обеспечивал разнообразие применений вместо надежности.</Moyo_Pistol.description>
+	<Moyo_Pistol.tools.0.label>рукоять с УСМ</Moyo_Pistol.tools.0.label>
+	<Moyo_Pistol.tools.1.label>рама со стволом</Moyo_Pistol.tools.1.label>
+	<Moyo_ChargeRifle.label>Электромагнитная винтовка Мойо</Moyo_ChargeRifle.label>
+	<Moyo_ChargeRifle.description>Автомат Мойо похож на электромагнитную винтовку Стреляет перезаряжаемыми болтами, ускоряя их по всей длине ствола. Каждый болт был разработан с упором на предотвращение рассеивания энергии.\n\nВ прошлом на маяках также использовались электромагнитные винтовки, принесенные во времена освоения глубин, но, как показало использование электромагнитных винтовок на болтовой основе, традиционные электромагнитные винтовки вскоре были заменены.</Moyo_ChargeRifle.description>
+	<Moyo_ChargeRifle.tools.0.label>приклад</Moyo_ChargeRifle.tools.0.label>
+	<Moyo_ChargeRifle.tools.1.label>Ствол</Moyo_ChargeRifle.tools.1.label>
+	<Bullet_MoyoAssaultBolt.label>Электромагнитный болт Мойо</Bullet_MoyoAssaultBolt.label>
+	<Moyo_PrecisionRifle.label>Снайперская винтовка Мойо</Moyo_PrecisionRifle.label>
+	<Moyo_PrecisionRifle.description>Это снайперская винтовка Мойо, похожая на электромагнитную винтовку. Хотя скорострельность винтовки достаточно низка, дальность и точность каждого болта, выпущенной по длинному стволу ускорителя, превосходны.\n\nПоскольку болты - миниатюрны, многие изготовленные прототипы не адаптировались к окружающей среде маяка, это касалось также и данного вида винтовок. Касалось. Однако все будет иначе, если это не маяк.</Moyo_PrecisionRifle.description>
+	<Moyo_PrecisionRifle.tools.0.label>приклад</Moyo_PrecisionRifle.tools.0.label>
+	<Moyo_PrecisionRifle.tools.1.label>ствол</Moyo_PrecisionRifle.tools.1.label>
+	<Bullet_MoyoSniperBolt.label>электромагнитный болт Moyo</Bullet_MoyoSniperBolt.label>
+	<Moyo_ChargeSMG.label>Электромагнитный пистолет-пулемет Мойо</Moyo_ChargeSMG.label>
+	<Moyo_ChargeSMG.description>Это миниатюрная электромагнитная винтовка Moyo. Благодаря легкому весу и простоте обращения, оно стало наиболее часто используемой моделью на маяках сразу после разработки.\n\nБольшинство огнестрельного оружия было просто предметом, необходимым для защиты арсенала, но Гражданская война все изменила.</Moyo_ChargeSMG.description>
+	<Moyo_ChargeSMG.tools.0.label>приклад</Moyo_ChargeSMG.tools.0.label>
+	<Moyo_ChargeSMG.tools.1.label>ствол</Moyo_ChargeSMG.tools.1.label>
+	<Bullet_MoyoSMGBolt.label>Электромагнитный болт Moyo</Bullet_MoyoSMGBolt.label>
+	<Moyo_BoltCaster.label>Баллиста Мойо</Moyo_BoltCaster.label>
+	<Moyo_BoltCaster.description>Большая болтовая установка, предназначенная для отражения глубоководных монстров, угрожающих маяку. Эта гигантская пусковая установка ускоряет и стреляет болтом одновременно с ЭМИ-зарядом, а такой болт вызывает сильный ЭМИ-взрыв одновременно с приземлением.\n\nМойо используют такие же болты как и в обычном электромагнитном оружии. Он был разработан в результате неудачи в процессе разработки боеприпасов для этого оружия..</Moyo_BoltCaster.description>
+	<Moyo_BoltCaster.tools.0.label>корпус</Moyo_BoltCaster.tools.0.label>
+	<Moyo_BoltCaster.tools.1.label>ствол</Moyo_BoltCaster.tools.1.label>
+	<Bullet_MoyoChargeBolt.label>Электромагнитный болт Moyo</Bullet_MoyoChargeBolt.label>
+	<Moyo_AutoCannon.label>Пушка Мойо</Moyo_AutoCannon.label>
+	<Moyo_AutoCannon.description>Это тяжелое оружие, которое быстро стреляет большими болтами. Чтобы повысить универсальность оружия, болты, используемые в этом оружии, были скорректированы так, чтобы подходить как для беззащитных целей, так и для бронированных целей.\n\nПо мере того, как война внутри маяка стала разнообразной, было разработано различное оружие и технологии, чтобы ответить на это. Некоторые из них построены на основе земного вооружения. Это оружие также повлияло на вооружение на местах, которые могут быть легко идентифицированы.</Moyo_AutoCannon.description>
+	<Moyo_AutoCannon.tools.0.label>корпус</Moyo_AutoCannon.tools.0.label>
+	<Moyo_AutoCannon.tools.1.label>ствол</Moyo_AutoCannon.tools.1.label>
+	<Bullet_MoyoAutoCannon.label>Тяжелый электромагнитный болт Мойо</Bullet_MoyoAutoCannon.label>
+	<Moyo_CryoBlaster.label>Криогенный излучатель Moyo</Moyo_CryoBlaster.label>
+	<Moyo_CryoBlaster.description>Это оружие, в котором используются криогенные технологии с целью подавления толпы. Запущенный хладагент мгновенно замерзает, вызывая сильное обморожение цели.\n\nКриогенное оружие помогает пользователям эффективно подавлять цели с помощью оружия, разработанного с упором на минимизацию кровопролития.</Moyo_CryoBlaster.description>
+	<Moyo_CryoBlaster.tools.0.label>Корпус</Moyo_CryoBlaster.tools.0.label>
+	<Moyo_CryoBlaster.tools.1.label>Ствол</Moyo_CryoBlaster.tools.1.label>
+	<Bullet_MoyoCBBlast.label>Криогенное излучение Мойо</Bullet_MoyoCBBlast.label>
+	<Moyo_CryoRifle.label>Криогенная тяжёлая винтовка Мойо</Moyo_CryoRifle.label>
+	<Moyo_CryoRifle.description>Криогенное оружие Мойо, которое стреляет криогенными бомбами, как пушки. Это оружие в основном устанавливается на криопод, и, как видите, оно не предназначено для использования людьми.</Moyo_CryoRifle.description>
+	<Moyo_CryoBlaster.tools.0.label>корпус</Moyo_CryoBlaster.tools.0.label>
+	<Moyo_CryoBlaster.tools.1.label>ствол</Moyo_CryoBlaster.tools.1.label>
+	<Bullet_MoyoCRBlast.label>Криогенное излучение Мойо</Bullet_MoyoCRBlast.label>
+	<!-- 근위대 -->
+	<Moyo_HeavyChargeRifle.label>Электромагнитная тяжёлая винтовка Мойо</Moyo_HeavyChargeRifle.label>
+	<Moyo_HeavyChargeRifle.description>Доработанная модель электромагнитной винтовки Мойо для Морских гвардейцев. Считая огневую мощь своим главным приоритетом, эта модель превосходит предыдущую во всех областях, кроме веса и удобства использования.\n\nИстинная ценность этой винтовки - это сочетание гражданских технологий и гвардейских модификаций. Белый корпус и символ Морских гвардейцев, выгравированный на корпусе, - песнопение старейшин в ответ на несправедливость.</Moyo_HeavyChargeRifle.description>
+	<Moyo_HeavyChargeRifle.tools.0.label>приклад</Moyo_HeavyChargeRifle.tools.0.label>
+	<Moyo_HeavyChargeRifle.tools.1.label>ствол</Moyo_HeavyChargeRifle.tools.1.label>
+	<Moyo_HeavyAutoCannon.label>Гвардейская пушка Мойо</Moyo_HeavyAutoCannon.label>
+	<Moyo_HeavyAutoCannon.description>Это модель, модифицированная для частей Морских гвардейцев. Чтобы увеличить универсальность оружия, болты, используемые в этом оружии, были скорректированы так, чтобы подходить как для беззащитных целей, так и для бронированных целей.\n\nЭто второе оружие с гражданскими технологиями плюс технологияbМорских гвардейцев. Белый корпус и символ Морских гвардейцев, начертанный на корпусе, это "Пламя реакции старейшин на инакомыслие".</Moyo_HeavyAutoCannon.description>
+	<Moyo_HeavyAutoCannon.tools.0.label>корпус</Moyo_HeavyAutoCannon.tools.0.label>
+	<Moyo_HeavyAutoCannon.tools.1.label>ствол</Moyo_HeavyAutoCannon.tools.1.label>
+	<Moyo_HeavyBoltCaster.label>Баллиста морских гвардейцев Мойо</Moyo_HeavyBoltCaster.label>
+	<Moyo_HeavyBoltCaster.description>Это модель, модифицирована под конструкцию баллисты. По сравнению с предыдущей моделью, это оружие может стрелять ЭМИ-болтами быстрее и точнее.\n\nЭто легендарное оружие маяка, которое защищало маяк с момента его создания, теперь является частью арсенала Морских гвардейцев. Белый внешний вид и выгравированный символ Морских гвардейцев - булава старейшин, охраняющих маяк.</Moyo_HeavyBoltCaster.description>
+	<Moyo_HeavyBoltCaster.tools.0.label>корпус</Moyo_HeavyBoltCaster.tools.0.label>
+	<Moyo_HeavyBoltCaster.tools.1.label>ствол</Moyo_HeavyBoltCaster.tools.1.label>
+	<Moyo_GDSpear.label>Гвардейская глефа Мойо</Moyo_GDSpear.label>
+	<Moyo_GDSpear.description>Это древковое боевое оружие, используемое морскими гвардейцами. В целом глефа стала больше и тяжелее, а криогенные устройства также были усилены.\n\nЭто неудачный образец древкового оружия, белый внешний вид и выгравированный на древке символ гвардии - это клинки старейшин, реагирующих на насилие.\n\n Оружие - это оружие ближнего боя, и оно может одновременно стрелять лезвиями, что делает его неблагоприятным выбором для тех, кто ценит ближний бой..</Moyo_GDSpear.description>
+	<Moyo_GDSpear.tools.0.label>древко</Moyo_GDSpear.tools.0.label>
+	<Moyo_GDSpear.tools.1.label>лезвие глефы</Moyo_GDSpear.tools.1.label>
+	<Moyo_GDSpear.tools.2.label>дополнительное лезвие</Moyo_GDSpear.tools.2.label>
+	<Moyo_GDPowerFist.label>Гвардейский силовой кулак Мойо</Moyo_GDPowerFist.label>
+	<Moyo_GDPowerFist.description>Это боевой силовой кулак, используемый Морскими гвардейцами. Фактически, функция такая же, как и у обычного.\n\nСиловой кулак был выбран в качестве церемониального снаряжения Морских гвардейцев, превосходя других конкурентов своей универсальностью, а белый внешний вид и символ Гвардии на корпусе - железный кулак старейшин в ответ на угрозу.</Moyo_GDPowerFist.description>
+	<Moyo_GDPowerFist.tools.0.label>кулак</Moyo_GDPowerFist.tools.0.label>
+	<Moyo_GDPowerFist.tools.1.label>корпус</Moyo_GDPowerFist.tools.1.label>
+
+</LanguageData>
